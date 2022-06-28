@@ -2,6 +2,8 @@
 
 This demo is a part of my GSoC project!
 
+![Flowchart (2)](https://user-images.githubusercontent.com/72989277/176197820-39f88a0d-caf4-4d5d-b4e1-c26dbbbd8b2e.jpg)
+
 ![unity_game](https://user-images.githubusercontent.com/72989277/175484440-7151f4e4-caee-4f15-9288-d3c922085578.png)
 ![unity_game_1](https://user-images.githubusercontent.com/72989277/175484457-5714fb13-1b0e-4195-b537-935fd753b185.png)
 ![unity_game_2](https://user-images.githubusercontent.com/72989277/175484463-df19b546-dc3f-4d72-90b7-c9ed9a65f868.png)
