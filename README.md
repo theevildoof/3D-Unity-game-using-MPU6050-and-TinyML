@@ -4,6 +4,8 @@ This demo is a part of my GSoC project!
 
 Link to the Hackster blog: https://www.hackster.io/theevildoof/3d-unity-game-using-mpu6050-and-tinyml-tutorial-8e3076
 
+To get started with TinyML, use this blog: https://www.hackster.io/theevildoof/how-to-get-started-with-tensorflow-lite-for-microcontrollers-f0c884 
+
 ![Flowchart (2)](https://user-images.githubusercontent.com/72989277/176197820-39f88a0d-caf4-4d5d-b4e1-c26dbbbd8b2e.jpg)
 
 ![unity_game](https://user-images.githubusercontent.com/72989277/175484440-7151f4e4-caee-4f15-9288-d3c922085578.png)
